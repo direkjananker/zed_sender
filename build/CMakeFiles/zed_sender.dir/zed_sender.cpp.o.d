@@ -1,7 +1,7 @@
 CMakeFiles/zed_sender.dir/zed_sender.cpp.o: \
- /home/direk-anker/projects/zed_sender/zed_sender.cpp \
- /usr/include/stdc-predef.h /usr/local/zed/include/sl/Camera.hpp \
- /usr/include/c++/13/algorithm /usr/include/c++/13/bits/stl_algobase.h \
+ /home/timon/zed_sender/zed_sender.cpp /usr/include/stdc-predef.h \
+ /usr/local/zed/include/sl/Camera.hpp /usr/include/c++/13/algorithm \
+ /usr/include/c++/13/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -225,14 +225,14 @@ CMakeFiles/zed_sender.dir/zed_sender.cpp.o: \
  /usr/include/c++/13/bits/hashtable.h \
  /usr/include/c++/13/bits/hashtable_policy.h \
  /usr/include/c++/13/bits/enable_special_members.h \
- /usr/local/cuda/include/cuda.h /usr/include/c++/13/stdlib.h \
- /usr/local/cuda/include/cuda_runtime.h \
- /usr/local/cuda/include/crt/host_config.h \
- /usr/local/cuda/include/builtin_types.h \
- /usr/local/cuda/include/device_types.h \
- /usr/local/cuda/include/crt/host_defines.h \
- /usr/local/cuda/include/driver_types.h \
- /usr/local/cuda/include/vector_types.h \
+ /usr/local/cuda-12.6/include/cuda.h /usr/include/c++/13/stdlib.h \
+ /usr/local/cuda-12.6/include/cuda_runtime.h \
+ /usr/local/cuda-12.6/include/crt/host_config.h \
+ /usr/local/cuda-12.6/include/builtin_types.h \
+ /usr/local/cuda-12.6/include/device_types.h \
+ /usr/local/cuda-12.6/include/crt/host_defines.h \
+ /usr/local/cuda-12.6/include/driver_types.h \
+ /usr/local/cuda-12.6/include/vector_types.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
  /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
@@ -241,19 +241,19 @@ CMakeFiles/zed_sender.dir/zed_sender.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
  /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
  /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
- /usr/local/cuda/include/surface_types.h \
- /usr/local/cuda/include/texture_types.h \
- /usr/local/cuda/include/library_types.h \
- /usr/local/cuda/include/channel_descriptor.h \
- /usr/local/cuda/include/cuda_runtime_api.h \
- /usr/local/cuda/include/cuda_device_runtime_api.h \
- /usr/local/cuda/include/driver_functions.h \
- /usr/local/cuda/include/vector_functions.h \
- /usr/local/cuda/include/vector_functions.hpp /usr/include/c++/13/utility \
- /usr/include/c++/13/bits/stl_relops.h \
- /usr/local/cuda/include/cuda_runtime_api.h \
- /usr/local/cuda/include/device_launch_parameters.h /usr/include/unistd.h \
- /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /usr/local/cuda-12.6/include/surface_types.h \
+ /usr/local/cuda-12.6/include/texture_types.h \
+ /usr/local/cuda-12.6/include/library_types.h \
+ /usr/local/cuda-12.6/include/channel_descriptor.h \
+ /usr/local/cuda-12.6/include/cuda_runtime_api.h \
+ /usr/local/cuda-12.6/include/cuda_device_runtime_api.h \
+ /usr/local/cuda-12.6/include/driver_functions.h \
+ /usr/local/cuda-12.6/include/vector_functions.h \
+ /usr/local/cuda-12.6/include/vector_functions.hpp \
+ /usr/include/c++/13/utility /usr/include/c++/13/bits/stl_relops.h \
+ /usr/local/cuda-12.6/include/cuda_runtime_api.h \
+ /usr/local/cuda-12.6/include/device_launch_parameters.h \
+ /usr/include/unistd.h /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
  /usr/include/x86_64-linux-gnu/bits/environments.h \
  /usr/include/x86_64-linux-gnu/bits/confname.h \
  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \

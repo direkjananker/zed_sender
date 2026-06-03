@@ -1,4 +1,4 @@
-# Install script for directory: /home/direk-anker/projects/zed_sender
+# Install script for directory: /home/timon/zed_sender
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/direk-anker/projects/zed_sender/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/timon/zed_sender/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

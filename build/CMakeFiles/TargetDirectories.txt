@@ -1,3 +1,3 @@
-/home/direk-anker/projects/zed_sender/build/CMakeFiles/zed_sender.dir
-/home/direk-anker/projects/zed_sender/build/CMakeFiles/edit_cache.dir
-/home/direk-anker/projects/zed_sender/build/CMakeFiles/rebuild_cache.dir
+/home/timon/zed_sender/build/CMakeFiles/zed_sender.dir
+/home/timon/zed_sender/build/CMakeFiles/edit_cache.dir
+/home/timon/zed_sender/build/CMakeFiles/rebuild_cache.dir

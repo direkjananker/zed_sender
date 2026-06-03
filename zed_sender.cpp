@@ -33,7 +33,7 @@
 // Configuratie
 // ---------------------------------------------------------------------------
 
-static constexpr const char* QUEST_IP   = "192.168.2.51"; // IP van de test  ontvanger
+static constexpr const char* QUEST_IP   = "192.168.50.4"; // IP van de test  ontvanger
 static constexpr int PORT_LEFT          = 5600;
 static constexpr int PORT_RIGHT         = 5601;
 static constexpr int VIDEO_WIDTH        = 1280;
